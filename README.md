@@ -1,6 +1,8 @@
 # 🤬 Whoops, wrong layout!
 
-A tiny library that corrects wrong layout as you type – if a field you type to only accepts English letters, e.g. credit card name field.
+A tiny library that corrects wrong layout as you type – if a field you type to only accepts English letters, e.g. cardholder name field.
+
+[Check out the demo](https://grumpy.blog/en/whoops,_wrong_layout!/)
 
 ## Installation
 
@@ -17,7 +19,7 @@ const whoopsWrongLayout = require('whoops-wrong-layout');
 const input = document.querySelector('.js-card-name');
 
 whoopsWrongLayout(input);
-````
+```
 
 ## Quirks
 
