@@ -2,7 +2,7 @@
 
 A tiny library that fixes incorrectly selected layout if a field you type to only accepts English letters, e.g. cardholder name field.
 
-[Check out the demo](https://grumpy.blog/en/whoops,_wrong_layout!/)
+**[Check out the demo](https://grumpy.blog/en/whoops,_wrong_layout!/)**
 
 ## Installation
 
