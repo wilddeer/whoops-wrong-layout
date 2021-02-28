@@ -1,6 +1,6 @@
 {
   "name": "whoops-wrong-layout",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Corrects wrong layout if a field accepts only English letters",
   "main": "index.js",
   "scripts": {
