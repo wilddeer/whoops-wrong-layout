@@ -1,6 +1,6 @@
 # 🤬 Whoops, wrong layout!
 
-A tiny library that fixes incorrectly selected layout if a field the user types to only accepts English letters, e.g. cardholder name field.
+A tiny library (~400 bytes, if you care to minify and gzip it) that fixes incorrectly selected layout if a field the user types to only accepts English letters, e.g. cardholder name field.
 
 **[Check out the demo](https://grumpy.blog/en/whoops,_wrong_layout!/)**
 
