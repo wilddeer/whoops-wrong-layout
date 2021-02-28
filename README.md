@@ -26,7 +26,7 @@ whoopsWrongLayout(input);
 - Corrects the letters as you type them on your **physical** keyboard:
     - won’t change what’s already in the field,
     - won’t mess with pasted text,
-    - won’t change anything typed from a touch screen (you won’t be typing in the wrong layout from your phone anyway).
+    - won’t change anything typed from a touch screen (you won’t be typing with a wrong layout from your phone anyway).
 - Works with any layout, but will only correct letters that are not in the English alphabet:
     - won’t mess with [Dvorak](https://en.wikipedia.org/wiki/Dvorak_keyboard_layout) or [Colemak](https://en.wikipedia.org/wiki/Colemak) users (give’em a break, they’re already pretty messed up 🙃),
     - won’t mess with layouts that contain Engish letters in non-standard positions (like German, for instance).
